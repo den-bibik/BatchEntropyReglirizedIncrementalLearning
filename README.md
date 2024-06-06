@@ -4,7 +4,7 @@
 ![TCIL architercture](https://raw.githubusercontent.com/YellowPancake/TCIL/main/pictures/TCIL.png)
 
 
-Была модифицирована функция потерь в методе [TCIL](https://github.com/YellowPancake/TCIL), введя регуляризатор, учитывающий специфические особенности обучения с добавлением новых классов.
+Была модифицирована функция потерь в методе [TCIL](https://github.com/YellowPancake/TCIL), был введен регуляризатор, учитывающий специфические особенности обучения с добавлением новых классов.
 
 $`L^{i}_{reg} = \sum_{F_i}\log\left(\sigma_{batch }\left(F_i\right ) \right )`$, $`F_i`$ - набор активаций i-го энкодера 
 
