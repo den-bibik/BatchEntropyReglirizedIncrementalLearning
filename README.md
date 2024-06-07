@@ -38,6 +38,12 @@ $`L = L_{TCIL} + w_{reg} * \left(-L^{n}_{reg} + \sum_{i=1..n-1} L^{i}_{reg}) \ri
 
 
 
+### Код 
+
+Код опубликован по [ссылке](https://github.com/den-bibik/REGULIRIZED_TCIL)
+
+
+
 
 
 
